@@ -1,7 +1,7 @@
 /*Styles*/
 
 .banner {
-  min-height: 90vh;
+  min-height: 50vh;
   background-image: url(cabin_banner.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -15,6 +15,6 @@
 }
 
 .img-frontpage {
-	width: 33vw;
-	height: 33vw;
+	width: 20vw;
+	height: 20vw;
 }
