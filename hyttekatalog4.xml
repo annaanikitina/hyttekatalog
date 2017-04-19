@@ -42,7 +42,7 @@
 
 		<hytteid>2</hytteid>
 		
-		<bilde></bilde>
+		<bilde>hund.jpg</bilde>
 
 		<beliggenhet>Nerskogen</beliggenhet>
 
@@ -140,23 +140,23 @@
 	
 		<hytteid> 5 </hytteid>
 
-		<bilde></bilde>
+		<bilde>hund.jpg</bilde>
 
-		<beliggenhet></beliggenhet>
+		<beliggenhet>Den lille skogen</beliggenhet>
 
-		<utleieperioden></utleieperioden>
+		<utleieperioden>Hele året</utleieperioden>
 
-		<kjøkken></kjøkken>
+		<kjøkken>Ovn, komfyr, mikro</kjøkken>
 
-		<strøm></strøm>
+		<strøm>Ja</strøm>
 
-		<innlagtvann></innlagtvann>
+		<innlagtvann>Ja</innlagtvann>
 
-		<dusj></dusj>
+		<dusj>Nei</dusj>
 
-		<antallsenger></antallsenger>
+		<antallsenger>10</antallsenger>
 		
-		<pris></pris>
+		<pris>700</pris>
 
 		<hytteside></hytteside>
 		
@@ -176,23 +176,23 @@
 
 	   <hytteid> 6 </hytteid>
 
-		<bilde></bilde>
+		<bilde>hund.jpg</bilde>
 
-		<beliggenhet></beliggenhet>
+		<beliggenhet>Røros</beliggenhet>
 
-		<utleieperioden></utleieperioden>
+		<utleieperioden>Hele året</utleieperioden>
 
-		<kjøkken></kjøkken>
+		<kjøkken>Kjøleskap, ovn, komfyr</kjøkken>
 
-		<strøm></strøm>
+		<strøm>Ja</strøm>
 
-		<innlagtvann></innlagtvann>
+		<innlagtvann>Nei</innlagtvann>
 
-		<dusj></dusj>
+		<dusj>Nei</dusj>
 
-		<antallsenger></antallsenger>
+		<antallsenger>4</antallsenger>
 		
-		<pris></pris>
+		<pris>300</pris>
 
 		<hytteside></hytteside>
 		
