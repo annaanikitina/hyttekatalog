@@ -1,5 +1,5 @@
 		$(document).ready(function(){
-					$("#katalog").click(function(){				
+					$("#katalog").live('click',function(){				
 
 	var txt = "";
 	var hyttetype = this.name;
