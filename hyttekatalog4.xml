@@ -76,23 +76,23 @@
 	
 		<hytteid> 3 </hytteid>
 
-		<bilde></bilde>
+		<bilde>hund.jpg</bilde>
 
-		<beliggenhet></beliggenhet>
+		<beliggenhet>Hitra</beliggenhet>
 
-		<utleieperioden></utleieperioden>
+		<utleieperioden>Mai-Oktober</utleieperioden>
 
-		<kjøkken></kjøkken>
+		<kjøkken>Komfyr, kjøleskap</kjøkken>
 
-		<strøm></strøm>
+		<strøm> Ja </strøm>
 
-		<innlagtvann></innlagtvann>
+		<innlagtvann>Ja</innlagtvann>
 
-		<dusj></dusj>
+		<dusj>Nei</dusj>
 
-		<antallsenger></antallsenger>
+		<antallsenger>4</antallsenger>
 		
-		<pris></pris>		
+		<pris>750</pris>		
 
 		<hytteside></hytteside>
 		
@@ -108,23 +108,23 @@
 	
 		<hytteid> 4 </hytteid>
 
-		<bilde></bilde>
+		<bilde>hund.jpg</bilde>
 
-		<beliggenhet></beliggenhet>
+		<beliggenhet>Den store skogen</beliggenhet>
 
-		<utleieperioden></utleieperioden>
+		<utleieperioden>Hele året</utleieperioden>
 
-		<kjøkken></kjøkken>
+		<kjøkken>Enkel tekjøkken. Gas</kjøkken>
 
-		<strøm></strøm>
+		<strøm>Nei</strøm>
 
-		<innlagtvann></innlagtvann>
+		<innlagtvann>Ja</innlagtvann>
 
-		<dusj></dusj>
+		<dusj>Nei</dusj>
 
-		<antallsenger></antallsenger>
+		<antallsenger>8</antallsenger>
 		
-		<pris></pris>
+		<pris>500</pris>
 
 		<hytteside></hytteside>
 		
@@ -208,23 +208,23 @@
 	
 		<hytteid> 7 </hytteid>
 
-		<bilde></bilde>
+		<bilde>hund.jpg</bilde>
 
-		<beliggenhet></beliggenhet>
+		<beliggenhet>Storøya</beliggenhet>
 
-		<utleieperioden></utleieperioden>
+		<utleieperioden>Mai-September</utleieperioden>
 
-		<kjøkken></kjøkken>
+		<kjøkken>Ovn, komfyr, kjøleskap</kjøkken>
 
-		<strøm></strøm>
+		<strøm>Ja</strøm>
 
-		<innlagtvann></innlagtvann>
+		<innlagtvann>Ja</innlagtvann>
 
-		<dusj></dusj>
+		<dusj>Ja</dusj>
 
-		<antallsenger></antallsenger>
+		<antallsenger>6</antallsenger>
 		
-		<pris></pris>
+		<pris>600</pris>
 
 		<hytteside></hytteside>
 		
